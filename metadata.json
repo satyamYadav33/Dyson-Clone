@@ -1,0 +1,6 @@
+{
+  "name": "Dyson Oral Care AI Toothbrush",
+  "description": "Next-generation Dyson AI Toothbrush landing experience featuring interactive 3D model disassembly, high-speed digital sonic motor acoustic sound visualization, precision micro-bubble dynamics, subtle haptics, and live Bluetooth session tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
